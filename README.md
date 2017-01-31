@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# herokg deployment wow new branch test learning
+# herokg deployment wo new branch test learning
 =======
 # heroku deployment new branch test new branch
 >>>>>>> newbranch
